@@ -1,0 +1,14 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: fuchsia;
+}
+h1{
+   color:white; 
+}
+img {
+    height: 50px;
+    width: 50px;
+    
+}
